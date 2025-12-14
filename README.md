@@ -7,9 +7,9 @@ Siga os passos abaixo para baixar, configurar e rodar a aplicação em sua máqu
 ## 🛠 Pré-requisitos
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
-* Node.js (versão LTS recomendada)
-* Git
-* Dispositivo móvel com o app Expo Go instalado (Android ou iOS) OU um emulador configurado (Android Studio ou Xcode).
+* **[Node.js](https://nodejs.org/)** (versão LTS recomendada)
+* **[Git](https://git-scm.com/)**
+* Dispositivo móvel com o app **Expo Go** instalado (Android ou iOS) **OU** um emulador configurado (**Android Studio** ou **Xcode**).
 
 ## 🚀 1. Clonar o Repositório
 Abra o seu terminal (CMD, PowerShell, Terminal do VS Code) e execute o comando para baixar os arquivos do projeto:
